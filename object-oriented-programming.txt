@@ -1,0 +1,3 @@
+Object Oriented Programming:
+
+Invariants - In programming, an invariant is a condition or property that is always true at a specific point or during a particular phase of a program's execution, regardless of the program's state or the operations performed.
